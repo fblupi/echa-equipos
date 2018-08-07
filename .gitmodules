@@ -1,3 +1,6 @@
 [submodule "echaequipos-backend"]
 	path = echaequipos-backend
 	url = git@github.com:fblupi/echaequipos-backend.git
+[submodule "echaequipos-app"]
+	path = echaequipos-app
+	url = git@github.com:fblupi/echaequipos-app.git
